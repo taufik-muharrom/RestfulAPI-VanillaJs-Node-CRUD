@@ -1,0 +1,19 @@
+{
+  "name": "Vanilla-Nodejs-RestApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Taufik Muharrom",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "uuid": "^8.3.1"
+  }
+}
